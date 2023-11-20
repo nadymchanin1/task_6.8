@@ -1,0 +1,55 @@
+html body {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-color: rgb(183, 154, 207);
+}
+
+header {
+    position: relative;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    top: 20px;
+    padding-bottom: 0px;
+}
+
+#back {
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(62, 62, 129);
+}
+
+.form {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+    top: 30%;
+}
+
+label {
+    font-size: 20px;
+}
+
+input {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+button {
+    border-color: red;
+    background-color: rgb(252, 203, 203);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+hr {
+    margin: 40px;
+}
+
+p {
+    font-size: 20px;
+}
